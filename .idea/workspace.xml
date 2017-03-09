@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3555e87e-cef7-4432-89aa-571cedc2daae" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="3555e87e-cef7-4432-89aa-571cedc2daae" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -82,6 +80,115 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="ErlangApplicationRunConfiguration" factoryName="Erlang Application" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="erlFlags" value="" />
+      <option name="moduleAndFunction" value="" />
+      <option name="params" value="" />
+      <option name="useTestCodePath" value="false" />
+      <option name="workDirectory" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="ErlangUnitRunConfigurationType" factoryName="Erlang Eunit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="debugOptions">
+        <ErlangDebugOptions>
+          <option name="autoUpdateModulesNotToInterpret" value="true" />
+          <option name="modulesNotToInterpret">
+            <set />
+          </option>
+        </ErlangDebugOptions>
+      </option>
+      <option name="workDirectory" />
+      <module />
+      <option name="functionNames">
+        <set />
+      </option>
+      <option name="kind" value="MODULE" />
+      <option name="moduleNames">
+        <set />
+      </option>
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="RebarEunitRunConfigurationType" factoryName="Erlang Rebar Eunit" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="command" value="eunit" />
+      <option name="skipDependencies" value="true" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -92,12 +199,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489056930835</updated>
-      <workItem from="1489056932690" duration="453000" />
+      <workItem from="1489056932690" duration="513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="453000" />
+    <option name="totallyTimeSpent" value="513000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -123,84 +230,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="processedProjectFiles" value="true" />
-    <option name="exactExcludedFiles">
-      <list>
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/karma/config.tpl.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tslint/scripts/buildDocs.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/enum/enum.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/type/type.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc/jsdoc.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/super/super.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/coerce/coerce.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/export/export.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/export/export_helper.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/export/export_helper_2.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/fields/fields.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/static/static.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/declare/declare.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/default/default.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/typedef/typedef.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/abstract/abstract.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/arrow_fn/arrow_fn.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/comments/comments.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/optional/optional.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/decorator/decorator.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/functions/functions.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/interface/interface.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/variables/variables.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/underscore/export_underscore.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/underscore/underscore.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types/jsdoc_types.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types/module2.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types/nevertyped.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types/module1.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types/default.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/enum.untyped/enum.untyped.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/file_comment/file_comment.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/basic.untyped/basic.untyped.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/fields_no_ctor/fields_no_ctor.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/type_and_value/module.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/type_and_value/type_and_value.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/typedef.untyped/typedef.untyped.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/arrow_fn.untyped/arrow_fn.untyped.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/declare_class_ns/declare_class_ns.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/functions.untyped/functions.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/structural.untyped/structural.untyped.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types.untyped/jsdoc_types.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types.untyped/module2.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types.untyped/nevertyped.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types.untyped/module1.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types.untyped/default.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/parameter_properties/parameter_properties.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/angular-cli/node_modules/tslint/scripts/buildDocs.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/Reflect.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/Reflect.js.map" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-definemetadata.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-definemetadata.js.map" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js.map" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-metadata.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-metadata.js.map" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getmetadata.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getmetadata.js.map" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getownmetadata.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getownmetadata.js.map" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js.map" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-hasownmetadata.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-hasownmetadata.js.map" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-decorate.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-decorate.js.map" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-deletemetadata.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-deletemetadata.js.map" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-hasmetadata.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-hasmetadata.js.map" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/awesome-typescript-loader/src/test/fixtures/babel/babel.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/awesome-typescript-loader/src/test/fixtures/basic/basic.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/awesome-typescript-loader/src/test/fixtures/salsa/index.js" />
-        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsx/jsx.js" />
-      </list>
-    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
