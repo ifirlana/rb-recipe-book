@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3555e87e-cef7-4432-89aa-571cedc2daae" name="Default" comment="" />
+    <list default="true" id="3555e87e-cef7-4432-89aa-571cedc2daae" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -90,12 +92,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1489056930835</updated>
-      <workItem from="1489056932690" duration="80000" />
+      <workItem from="1489056932690" duration="453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="80000" />
+    <option name="totallyTimeSpent" value="453000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="6" />
@@ -118,6 +120,87 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/karma/config.tpl.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tslint/scripts/buildDocs.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/enum/enum.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/type/type.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc/jsdoc.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/super/super.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/coerce/coerce.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/export/export.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/export/export_helper.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/export/export_helper_2.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/fields/fields.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/static/static.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/declare/declare.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/default/default.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/typedef/typedef.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/abstract/abstract.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/arrow_fn/arrow_fn.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/comments/comments.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/optional/optional.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/decorator/decorator.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/functions/functions.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/interface/interface.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/variables/variables.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/underscore/export_underscore.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/underscore/underscore.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types/jsdoc_types.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types/module2.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types/nevertyped.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types/module1.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types/default.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/enum.untyped/enum.untyped.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/file_comment/file_comment.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/basic.untyped/basic.untyped.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/fields_no_ctor/fields_no_ctor.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/type_and_value/module.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/type_and_value/type_and_value.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/typedef.untyped/typedef.untyped.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/arrow_fn.untyped/arrow_fn.untyped.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/declare_class_ns/declare_class_ns.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/functions.untyped/functions.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/structural.untyped/structural.untyped.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types.untyped/jsdoc_types.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types.untyped/module2.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types.untyped/nevertyped.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types.untyped/module1.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsdoc_types.untyped/default.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/parameter_properties/parameter_properties.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/angular-cli/node_modules/tslint/scripts/buildDocs.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/Reflect.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/Reflect.js.map" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-definemetadata.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-definemetadata.js.map" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getmetadatakeys.js.map" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-metadata.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-metadata.js.map" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getmetadata.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getmetadata.js.map" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getownmetadata.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getownmetadata.js.map" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-getownmetadatakeys.js.map" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-hasownmetadata.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-hasownmetadata.js.map" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-decorate.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-decorate.js.map" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-deletemetadata.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-deletemetadata.js.map" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-hasmetadata.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/reflect-metadata/test/reflect-hasmetadata.js.map" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/awesome-typescript-loader/src/test/fixtures/babel/babel.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/awesome-typescript-loader/src/test/fixtures/basic/basic.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/awesome-typescript-loader/src/test/fixtures/salsa/index.js" />
+        <option value="$PROJECT_DIR$/recipe-book/node_modules/tsickle/test_files/jsx/jsx.js" />
+      </list>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
